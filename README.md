@@ -1,2 +1,2 @@
 # myBatis_ContactApp
-MyBatis
+MyBatis_practice
